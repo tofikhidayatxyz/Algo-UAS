@@ -15,7 +15,7 @@ class Result {
     }
 }
 
-public class Numberone {
+public class Uas7 {
 
     public static void main(String[] args) {
 
